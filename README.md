@@ -3,3 +3,6 @@ This project documents the process of using Edge Impulse to train a TinyML model
 
 
 ![image](https://user-images.githubusercontent.com/50542181/148625199-588cddef-b2d4-4d8d-bafd-8f47f796fb8a.png)
+
+
+My Edge Impulse Page can be found here: https://studio.edgeimpulse.com/studio/32648
