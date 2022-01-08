@@ -6,3 +6,9 @@ This project documents the process of using Edge Impulse to train a TinyML model
 
 
 My Edge Impulse Page can be found here: https://studio.edgeimpulse.com/studio/32648
+
+
+Components Used in the Project:
+
+- Arduino Nano 33 BLE Sense
+- DFRobot LCD1602 RGB Backlight Module
